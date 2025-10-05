@@ -1,0 +1,10 @@
+streamlit
+joblib
+pandas
+scikit-learn
+numpy
+seaborn
+matplotlib
+train_test_split
+RandomForestRegressor
+matplotlib 
